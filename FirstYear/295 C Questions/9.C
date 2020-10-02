@@ -1,0 +1,23 @@
+#include<stdio.H>
+#include <conio.h>
+main()
+{
+printf
+(
+"\%\d\
+"
+,
+12
+)
+;
+printf
+(
+"\%\
+d\
+"
+,
+12
+)
+;
+getch();
+}
